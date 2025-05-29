@@ -115,6 +115,13 @@ if st.button("🔁 Convert Now!"):
         f"<div class='result-box'>✨ {value} {from_unit} = <strong>{result:.4f}</strong> {to_unit} ✨</div>",
         unsafe_allow_html=True
     )
-
+st.markdown("""
+**Features:**
+- Convert between 6 different measurement categories
+- Over 50 supported units
+- Real-time calculations
+- Professional interface
+- Precise decimal formatting
+""")
 # Footer
 st.markdown("<div class='footer'> Created with Muhammad Abdur Rehman</div>", unsafe_allow_html=True)
