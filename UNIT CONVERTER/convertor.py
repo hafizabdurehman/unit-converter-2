@@ -48,7 +48,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and description
-st.markdown("<h1>🧮 Unit Converter with Python & Streamlit 🚀</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🧮 Unit Converter with Python & Streamlit </h1>", unsafe_allow_html=True)
 st.write("🔄 Easily convert between different units of **Length**, **Weight**, and **Temperature**.")
 
 # Sidebar
